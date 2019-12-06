@@ -52,6 +52,14 @@
 ## 八、产品原型
 
 ## 九、产品架构
+### 产品信息架构
+![信息结构图](https://images.gitee.com/uploads/images/2019/1206/204114_ad2cced8_1648195.png "”动物园游玩助手“产品信息结构图.png")
+### 产品功能结构图
+![功能结构图](https://images.gitee.com/uploads/images/2019/1206/204128_dfbbbe7a_1648195.png "”动物园游玩助手“功能结构图.png")
+### 产品结构图
+![产品结构图](https://images.gitee.com/uploads/images/2019/1206/204055_c493a916_1648195.png "”动物园游玩助手“产品结构图.png")
+### 产品流程图
+![流程图](https://images.gitee.com/uploads/images/2019/1206/204030_1ca06733_1648195.png "“动物园游玩助手”流程图.png")
 
 ## 十、API调用
 
