@@ -50,6 +50,18 @@
 3. 小李在路上走着，准备去找“飞鸟馆”，但不识路也不太会看地图的她不知怎么去。这时小李打开app，输入了“飞鸟馆”，立刻返回了当前位置到飞鸟馆的路线导航。
 
 ## 八、产品原型
+1. “权限”页面
+![位置](https://images.gitee.com/uploads/images/2019/1208/225247_0ef8d29d_1648195.png "382c252ddc3d8938e0ff3b72b429d07.png")
+![拍照](https://images.gitee.com/uploads/images/2019/1208/225307_dc87aa8c_1648195.png "cbcfdc80d2cd037bdc12b83536d7bec.png")
+2. “动物识别”页面
+![拍识别](https://images.gitee.com/uploads/images/2019/1208/225323_7bfdfd56_1648195.png "7ac4bbdbaa85b3120fe7448e7aba419.png")
+![图识别](https://images.gitee.com/uploads/images/2019/1208/225342_0e38691e_1648195.png "59855be1a65398e169a8757cce0512c.png")
+![图库](https://images.gitee.com/uploads/images/2019/1208/225353_ae9e671d_1648195.png "62a5ff856b7d784081399ad21712ced.png")
+![识别](https://images.gitee.com/uploads/images/2019/1208/225404_2b527be9_1648195.png "c742a03dc4af0fa562152e29ab12e47.png")
+3. “路线规划”页面
+![路线](https://images.gitee.com/uploads/images/2019/1208/225419_8308a93e_1648195.png "4c4694858c181beb0ac299713839e30.png")
+4. “我的”页面
+![我的](https://images.gitee.com/uploads/images/2019/1208/225811_225c4de7_1648195.png "1aaef66057401c4c016976905fe61d0.png")
 
 ## 九、产品架构
 ### 产品信息架构
