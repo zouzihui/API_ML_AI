@@ -69,31 +69,36 @@
 ## 一、交互及界面设计
 1. “权限”页面
 
-![位置](https://images.gitee.com/uploads/images/2019/1208/225247_0ef8d29d_1648195.png "382c252ddc3d8938e0ff3b72b429d07.png")
-![拍照](https://images.gitee.com/uploads/images/2019/1208/225307_dc87aa8c_1648195.png "cbcfdc80d2cd037bdc12b83536d7bec.png")
+![位置授权](https://images.gitee.com/uploads/images/2019/1209/221810_ef123f93_1648195.png "授权1.png")
 
-2. “动物识别”页面
+![拍照授权](https://images.gitee.com/uploads/images/2019/1209/221829_cdd1a8c5_1648195.png "授权2.png")
 
-![拍识别](https://images.gitee.com/uploads/images/2019/1208/225323_7bfdfd56_1648195.png "7ac4bbdbaa85b3120fe7448e7aba419.png")
+![拍照](https://images.gitee.com/uploads/images/2019/1209/221952_3b031fb0_1648195.png "拍照.png")
 
 ![图识别](https://images.gitee.com/uploads/images/2019/1208/225342_0e38691e_1648195.png "59855be1a65398e169a8757cce0512c.png")
-![图库](https://images.gitee.com/uploads/images/2019/1208/225353_ae9e671d_1648195.png "62a5ff856b7d784081399ad21712ced.png")
 
-![识别](https://images.gitee.com/uploads/images/2019/1208/225404_2b527be9_1648195.png "c742a03dc4af0fa562152e29ab12e47.png")
+![图库](https://images.gitee.com/uploads/images/2019/1209/222011_a280e483_1648195.png "图库.png")
+
+![识别](https://images.gitee.com/uploads/images/2019/1209/222023_cf368ef0_1648195.png "识别.png")
+
+![百度](https://images.gitee.com/uploads/images/2019/1209/223001_b05c2c4c_1648195.png "百度.png")
 
 3. “路线规划”页面
 
-![路线](https://images.gitee.com/uploads/images/2019/1208/225419_8308a93e_1648195.png "4c4694858c181beb0ac299713839e30.png")
+![路线](https://images.gitee.com/uploads/images/2019/1209/222125_89028a7d_1648195.png "路线.png")
 
 4. “我的”页面
 
-![我的](https://images.gitee.com/uploads/images/2019/1208/225811_225c4de7_1648195.png "1aaef66057401c4c016976905fe61d0.png")
+![我的](https://images.gitee.com/uploads/images/2019/1209/222656_bfa72bcf_1648195.png "我的.png")
 
 ## 二、信息设计
 
 ## 三、原型文档
-1. 页面链接:[产品页面](http://nfunm110.gitee.io/api_end_of_term/#g=1&p=%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92)
+1. 页面链接:
+[产品页面](http://nfunm110.gitee.io/api_end_of_term/#g=1&p=%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92)
+
 2. 产品axure文档:
+[原型文档](https://github.com/zouzihui/API_ML_AI)
 
 ## 四、口头操作说明
 大家好，我是本产品的负责人，今天我来为大家讲解我们推出的“动物园游玩助手”app。本产品主要有两个动能，第一是动物识别功能，此功能运用了百度AI中的动物识别api，用户可以在app内通过拍照或使用手机内照片，选中照片后点击确认即可进行动物识别，功能会通过用户输入照片进行识别，返回照片中动物的名称，种类以及百度百科信息，从而提升用户在动物园的观赏体验。第二是路线规划功能，此功能运用了高德地图api中的路劲规划api，用户点击tab栏中的路径规划图标跳转到路径规划页面，输入起始地与目的地后按搜索键即可进行路径规划，功能会通过输入起点与终点自动为用户规划最佳路线，并以地图形式显示。
