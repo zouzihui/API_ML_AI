@@ -139,5 +139,32 @@
 ![输出4](https://images.gitee.com/uploads/images/2019/1209/151540_a4de97aa_1648195.png "4.png")
 
 ### 二、 使用比较分析
+1. 腾讯AI中的图片识别
+* 单一主体识别
+
+![腾讯AI](https://images.gitee.com/uploads/images/2019/1209/154918_2728662c_1648195.png "腾讯AI.png")
+
+* 多主体识别
+
+![腾讯2](https://images.gitee.com/uploads/images/2019/1209/155233_e3397d3b_1648195.png "腾讯AI2.png")
+
+2. 阿里云的图像识别
+* 单一主体识别
+
+![阿里云](https://images.gitee.com/uploads/images/2019/1209/154935_80f3ef1a_1648195.png "阿里云.png")
+
+* 多主体识别
+
+![百度2](https://images.gitee.com/uploads/images/2019/1209/155252_dcb9fd9e_1648195.png "百度AI2.png")
+
+3. 百度AI的动物识别
+* 单一主体识别
+
+![百度AI](https://images.gitee.com/uploads/images/2019/1209/154951_0392f82b_1648195.png "百度AI.png")
+
+* 多主体识别
+
+![阿里2](https://images.gitee.com/uploads/images/2019/1209/155302_6725836a_1648195.png "阿里云2.png")
+
 
 ## 使用后风险报告
