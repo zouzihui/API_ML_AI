@@ -114,19 +114,25 @@
 * 接口地址：[百度AI的动物识别api](http://https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Zk3bcxdfr)
 * 请求方法：POST
 * 输入代码：
+
 ![输入代码](https://images.gitee.com/uploads/images/2019/1209/145934_6c867ccf_1648195.png "22b393bdb0b0bfea5a080b6d18e8753.png")
+
 *输出代码：
+
 ![输出代码](https://images.gitee.com/uploads/images/2019/1209/150207_2d4ad03b_1648195.png "c30182a59770668235428ae1bcd68a7.png")
 ![输出代码](https://images.gitee.com/uploads/images/2019/1209/150218_183f1b95_1648195.png "0f445e51d1ad9e078a88b4b7e9fcdb9.png")
 
-1. 功能二：路线规划（高德地图api）
+2. 功能二：路线规划（高德地图api）
 * web服务：路径规划api
 * 接口描述：步行路径规划 API 可以规划100KM以内的步行通勤方案，并且返回通勤方案的数据。
 * 接口地址： [高德地图api的路径规划api](https://lbs.amap.com/api/webservice/guide/api/direction/)
 * 请求方法： POST
 * 输入代码：
+
 ![输入](https://images.gitee.com/uploads/images/2019/1209/151505_36e5f151_1648195.png "输入.png")
+
 * 输出代码
+
 ![输出1](https://images.gitee.com/uploads/images/2019/1209/151513_18e3a8a3_1648195.png "1.png")
 ![输出2](https://images.gitee.com/uploads/images/2019/1209/151522_b055225c_1648195.png "2.png")
 ![输出3](https://images.gitee.com/uploads/images/2019/1209/151531_f542bc19_1648195.png "3.png")
