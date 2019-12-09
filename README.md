@@ -70,14 +70,17 @@
 1. “权限”页面
 
 ![位置授权](https://images.gitee.com/uploads/images/2019/1209/221810_ef123f93_1648195.png "授权1.png")
+
 ![拍照授权](https://images.gitee.com/uploads/images/2019/1209/221829_cdd1a8c5_1648195.png "授权2.png")
 
 ![拍照](https://images.gitee.com/uploads/images/2019/1209/221952_3b031fb0_1648195.png "拍照.png")
 
 ![图识别](https://images.gitee.com/uploads/images/2019/1208/225342_0e38691e_1648195.png "59855be1a65398e169a8757cce0512c.png")
+
 ![图库](https://images.gitee.com/uploads/images/2019/1209/222011_a280e483_1648195.png "图库.png")
 
 ![识别](https://images.gitee.com/uploads/images/2019/1209/222023_cf368ef0_1648195.png "识别.png")
+
 ![百度](https://images.gitee.com/uploads/images/2019/1209/223001_b05c2c4c_1648195.png "百度.png")
 
 3. “路线规划”页面
