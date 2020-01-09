@@ -8,8 +8,8 @@
  |  项目的开发者 | 邹子惠 |
  |  项目头的测试者 | 邹子惠 |
  
-- 20×20ppt
-[文件下载链接](https://github.com/zouzihui/API_ML_AI) 
+## 20×20ppt
+[文件下载链接](github.com/zouzihui/API_ML_AI/blob/master/20×20.pptx) 
 
 ## 价值主张设计 
 - 一句话版本
